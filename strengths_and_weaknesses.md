@@ -19,3 +19,7 @@
 
 # Weaknesses
 
+1. ## Steep learning curve
+   Git has many commands and concepts—branches, rebasing, merging, staging, HEAD, detached HEAD, etc.
+   which can be confusing for beginners.
+

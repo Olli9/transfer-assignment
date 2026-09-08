@@ -23,3 +23,6 @@
    Git has many commands and concepts—branches, rebasing, merging, staging, HEAD, detached HEAD, etc.
    which can be confusing for beginners.
 
+2. ## Complexity in advanced workflows
+   Operations such as interactive rebasing, cherry-picking, resolving complicated merge conflicts, or rewriting history can become quite difficult and error-prone.
+

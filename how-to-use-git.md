@@ -4,5 +4,5 @@
 3. Whenever you made a substantial change, put it into the history with `git commit -m <commit message>`
 4. See your history with `git log`
 5. Move around (history and branches!) with `git checkout <branch-name or commit-id>`
-6. Create new branches with `git checkout -b <brach-name>`
+6. Create new branches with `git checkout -b <brach-name> # Or "git branch <brach-name>" without checking out the new branch.`
 7. To collaborate, first `git pull` others changes, then `git push` yours

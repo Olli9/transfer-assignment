@@ -32,3 +32,6 @@
 4. ### Merge conflicts can be difficult to resolve
    When multiple developers modify the same parts of a file, Git cannot always determine the intended result. The user then has to resolve the conflict manually.
 
+5. ### Easy to make destructive mistakes
+   Some commands can permanently discard changes or rewrite history if used incorrectly—for example, git reset --hard, git clean, or force-pushing rewritten history. This makes understanding Git's model important before using its more powerful commands.
+

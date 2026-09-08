@@ -10,6 +10,9 @@
 3. ### Complete history and traceability
    Git records changes as commits, allowing you to see what changed, when, and by whom, and to inspect or revert previous versions.
 
+4. ### Fast and efficient
+   Since most operations are performed locally, Git is generally very fast—even for repositories with extensive histories.
+
 
 # Weaknesses
 

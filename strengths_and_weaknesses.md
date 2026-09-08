@@ -26,3 +26,6 @@
 2. ## Complexity in advanced workflows
    Operations such as interactive rebasing, cherry-picking, resolving complicated merge conflicts, or rewriting history can become quite difficult and error-prone.
 
+3. ### Poor handling of large binary files
+   Git is primarily designed for source code and text. Large binaries (e.g., videos, compiled files, large datasets) can make repositories grow rapidly and become inefficient.
+

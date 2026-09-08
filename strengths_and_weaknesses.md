@@ -29,3 +29,6 @@
 3. ### Poor handling of large binary files
    Git is primarily designed for source code and text. Large binaries (e.g., videos, compiled files, large datasets) can make repositories grow rapidly and become inefficient.
 
+4. ### Merge conflicts can be difficult to resolve
+   When multiple developers modify the same parts of a file, Git cannot always determine the intended result. The user then has to resolve the conflict manually.
+
